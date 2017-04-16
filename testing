@@ -1,3 +1,5 @@
 
-|col1 | col2 | col3| col4|
-|test| test2| test4|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
